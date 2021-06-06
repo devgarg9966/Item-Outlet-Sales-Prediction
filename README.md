@@ -57,3 +57,4 @@ OUT045, OUT018, OUT017, OUT010, OUT019)
 * Fitting the Mode
 ## Model Successfully Created
 
+[Big_Mart_Sales_Predction.pdf](https://github.com/devgarg9966/Item-Outlet-Sales-Prediction/files/6604369/Big_Mart_Sales_Predction.pdf)
